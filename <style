@@ -1,0 +1,25 @@
+
+body {background-color: lightyellow;
+    #myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+p { color: green;
+
+}
+
+li { color: rgb(64, 0, 255);
+    
+}
+
+.kitten {
+  background-color: lightgrey;
+  border: 5px solid black;
+  padding: 10px;
+}
+.p1 {
+
+  font-family: "Times New Roman"
+}
