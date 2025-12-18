@@ -41,3 +41,5 @@ li { color: rgb(64, 0, 255);
   <h2 style="color: saddlebrown;">My contacts</h2>
   <p> Scroll up,and you will find all my contacts.</p>
 </div>
+<h1 style="color: #00ff33;">My gallery</h1>
+<p style="color: blue;">Here are some photos of Vatrushka</p>
