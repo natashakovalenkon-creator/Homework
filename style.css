@@ -1,0 +1,45 @@
+
+body {background-color: lightyellow;
+    #myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+p { color: green;
+
+}
+
+li { color: rgb(64, 0, 255);
+    
+}
+
+.kitten {
+  background-color: lightgrey;
+  border: 5px solid black;
+  padding: 10px;
+}
+.p1 {
+
+  font-family: "Times New Roman"
+}
+<h1 style="color:blue;">A Blue Heading</h1>
+<h1 style="background-color: lightblue; color: black; padding: 40px; text-align: center;">Vatrushka</h1>
+<style>
+    body {
+        background-color: lightyellow;
+    }
+    h1 { color: darkorchid;
+        
+    }
+    p { color: teal;}
+
+       
+
+</style>
+<div class="contacts">
+  <h2 style="color: saddlebrown;">My contacts</h2>
+  <p> Scroll up,and you will find all my contacts.</p>
+</div>
+<h1 style="color: #00ff33;">My gallery</h1>
+<p style="color: blue;">Here are some photos of Vatrushka</p>
